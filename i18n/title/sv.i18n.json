@@ -1,11 +1,11 @@
 {
-  "ua_change_password" : "byt lösenord",
-  "ua_create_an_account" : "skapa ett konto",
-  "ua_log_in" : "logga in",
-  "ua_register" : "registrera",
-  "ua_reset_your_password" : "återställ ditt lösenord",
-  "ua_retrieve_your_password" : "hämta ditt lösenord",
-  "ua_sign_in" : "logga in",
-  "ua_sign_up" : "registrera dig",
-  "ua_verify_email" : "verifiera email"
+  "change_password" : "byt lösenord",
+  "create_an_account" : "skapa ett konto",
+  "log_in" : "logga in",
+  "register" : "registrera",
+  "reset_your_password" : "återställ ditt lösenord",
+  "retrieve_your_password" : "hämta ditt lösenord",
+  "sign_in" : "logga in",
+  "sign_up" : "registrera dig",
+  "verify_email" : "verifiera email"
 }

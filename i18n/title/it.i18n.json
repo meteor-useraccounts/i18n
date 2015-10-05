@@ -1,11 +1,11 @@
 {
-  "ua_change_password" : "cambia password",
-  "ua_create_an_account" : "crea un account",
-  "ua_log_in" : "accedi",
-  "ua_register" : "registrati",
-  "ua_reset_your_password" : "reimposta la tua password",
-  "ua_retrieve_your_password" : "recupera la tua password",
-  "ua_sign_in" : "accedi",
-  "ua_sign_up" : "iscriviti",
-  "ua_verify_email" : "verifica email"
+  "change_password" : "cambia password",
+  "create_an_account" : "crea un account",
+  "log_in" : "accedi",
+  "register" : "registrati",
+  "reset_your_password" : "reimposta la tua password",
+  "retrieve_your_password" : "recupera la tua password",
+  "sign_in" : "accedi",
+  "sign_up" : "iscriviti",
+  "verify_email" : "verifica email"
 }

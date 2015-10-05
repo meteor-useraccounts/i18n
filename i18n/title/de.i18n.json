@@ -1,10 +1,10 @@
 {
-  "ua_change_password" : "Passwort ändern",
-  "ua_create_an_account" : "Konto erstellen",
-  "ua_log_in" : "Anmelden",
-  "ua_register" : "Registrieren",
-  "ua_reset_your_password" : "Passwort zurücksetzen",
-  "ua_sign_in" : "Anmelden",
-  "ua_sign_up" : "Registrieren",
-  "ua_verify_email" : "Email verifizieren"
+  "change_password" : "Passwort ändern",
+  "create_an_account" : "Konto erstellen",
+  "log_in" : "Anmelden",
+  "register" : "Registrieren",
+  "reset_your_password" : "Passwort zurücksetzen",
+  "sign_in" : "Anmelden",
+  "sign_up" : "Registrieren",
+  "verify_email" : "Email verifizieren"
 }

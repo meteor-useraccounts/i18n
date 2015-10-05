@@ -1,10 +1,10 @@
 {
-  "ua_add" : "aggiungi %s",
-  "ua_connect_to" : "connetti con %s",
-  "ua_disconnect_from" : "disconnetti da %s",
-  "ua_log_in_with" : "accedi con %s",
-  "ua_register_with" : "registrati con %s",
-  "ua_remove" : "rimuovi %s",
-  "ua_sign_in_with" : "registrati con %s",
-  "ua_sign_up_with" : "iscriviti con %s"
+  "add" : "aggiungi %s",
+  "connect_to" : "connetti con %s",
+  "disconnect_from" : "disconnetti da %s",
+  "log_in_with" : "accedi con %s",
+  "register_with" : "registrati con %s",
+  "remove" : "rimuovi %s",
+  "sign_in_with" : "registrati con %s",
+  "sign_up_with" : "iscriviti con %s"
 }
