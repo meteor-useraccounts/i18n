@@ -22,12 +22,10 @@ UAi18nPlugin = function _UAi18nPlugin() {
   this._id = 'i18n';
 };
 
-
 // inherit UAPlugin
 UAi18nPlugin.prototype = new UAPlugin();
 
 _.extend(UAi18nPlugin.prototype, {
-  // correct the constructor pointer because it points to UAModule
   constructor: UAi18nPlugin,
 
   oldT: UserAccounts.t,
@@ -40,11 +38,9 @@ _.extend(UAi18nPlugin.prototype, {
   },
 
   uninit: function uninit() {
-    var self = this;
-
     if (Meteor.isClient) {
       UALog.trace('Restoring old UserAccounts.t method');
-      UserAccounts.t = self.oldT;
+      UserAccounts.t = this.oldT;
     }
   },
 });

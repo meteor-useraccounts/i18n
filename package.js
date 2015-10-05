@@ -42,7 +42,6 @@ Package.onUse(function pkgOnUse(api) {
     'useraccounts:core',
   ], Both);
 
-  api.addFiles('useraccounts-tap.i18n', Both);
 
   // Plugin files
   api.addFiles([
@@ -53,5 +52,6 @@ Package.onUse(function pkgOnUse(api) {
   ], Both);
 
   // i18n files
+  api.addFiles('useraccounts-tap.i18n', Both);
   api.addFiles(i18nFiles, Both);
 });
