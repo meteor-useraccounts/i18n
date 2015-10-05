@@ -1,0 +1,10 @@
+{
+  "ua_add" : "%s hinzufügen",
+  "ua_connect_to" : "Mit %s vebinden",
+  "ua_disconnect_from" : "Verbindung von %s trennen",
+  "ua_log_in_with" : "Mit %s anmelden",
+  "ua_register_with" : "Mit %s registrieren",
+  "ua_remove" : "%s entfernen",
+  "ua_sign_in_with" : "Mit %s anmelden",
+  "ua_sign_up_with" : "Mit %s registrieren"
+}

@@ -1,0 +1,11 @@
+{
+  "ua_change_password" : "change password",
+  "ua_create_an_account" : "create an account",
+  "ua_log_in" : "log in",
+  "ua_register" : "register",
+  "ua_reset_your_password" : "reset your password",
+  "ua_retrieve_your_password" : "retrieve your password",
+  "ua_sign_in" : "sign in",
+  "ua_sign_up" : "sign up",
+  "ua_verify_email" : "verify email"
+}

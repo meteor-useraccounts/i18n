@@ -1,0 +1,10 @@
+{
+  "ua_add" : "add %s",
+  "ua_connect_to" : "connect to %s",
+  "ua_disconnect_from" : "disconnect from %s",
+  "ua_log_in_with" : "log in with %s",
+  "ua_register_with" : "register with %s",
+  "ua_remove" : "remove %s",
+  "ua_sign_in_with" : "sign in with %s",
+  "ua_sign_up_with" : "sign up with %s"
+}

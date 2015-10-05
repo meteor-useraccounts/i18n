@@ -1,0 +1,10 @@
+{
+  "ua_add" : "lägg till %s",
+  "ua_connect_to" : "anslut till %s",
+  "ua_disconnect_from" : "koppla från %s",
+  "ua_log_in_with" : "logga in med %s",
+  "ua_register_with" : "registrera med %s",
+  "ua_remove" : "ta bort %s",
+  "ua_sign_in_with" : "logga in med %s",
+  "ua_sign_up_with" : "registrera med %s"
+}
