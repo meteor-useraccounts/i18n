@@ -16,13 +16,13 @@ UALog.trace('Loading i18n_plugin.js');
 
 // define the UAi18nPlugin class
 UAi18nPlugin = function _UAi18nPlugin() {
-  // Call the parent constructor
-  UAPlugin.call(this);
+  var self = this;
 
-  this._id = 'i18n';
+  UAPlugin.call(self);
+
+  self._id = 'i18n';
 };
 
-// inherit UAPlugin
 UAi18nPlugin.prototype = new UAPlugin();
 
 _.extend(UAi18nPlugin.prototype, {
@@ -31,6 +31,8 @@ _.extend(UAi18nPlugin.prototype, {
   oldT: UserAccounts.t,
 
   init: function init() {
+    UALog.trace('UAi18nPlugin.init');
+
     if (Meteor.isClient) {
       UALog.trace('Substituting UserAccounts.t method');
       UserAccounts.t = TAPi18n.__;
@@ -38,9 +40,13 @@ _.extend(UAi18nPlugin.prototype, {
   },
 
   uninit: function uninit() {
+    var self = this;
+
+    UALog.trace('UAi18nPlugin.uninit');
+
     if (Meteor.isClient) {
       UALog.trace('Restoring old UserAccounts.t method');
-      UserAccounts.t = this.oldT;
+      UserAccounts.t = self.oldT;
     }
   },
 });
