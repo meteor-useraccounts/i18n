@@ -1,0 +1,10 @@
+{
+  "add" : "додати %s",
+  "connect_to" : "підключитися до %s",
+  "disconnect_from" : "відключитися від %s",
+  "log_in_with" : "увійти як %s",
+  "register_with" : "зареєструватися як %s",
+  "remove" : "видалити %s",
+  "sign_in_with" : "увійти як %s",
+  "sign_up_with" : "зареєструватися як %s"
+}

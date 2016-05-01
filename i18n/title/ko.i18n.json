@@ -1,3 +1,11 @@
 {
-	
+  "change_password" : "비밀번호 변경",
+  "create_an_account" : "회원 가입",
+  "log_in" : "로그인",
+  "register" : "회원 가입",
+  "reset_your_password" : "비밀번호 재설정",
+  "retrieve_your_password" : "비밀번호 찾기",
+  "sign_in" : "로그인",
+  "sign_up" : "가입",
+  "verify_email" : "이메일 확인"
 }

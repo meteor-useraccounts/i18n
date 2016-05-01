@@ -1,0 +1,11 @@
+{
+  "change_password" : "зміна пароля",
+  "create_an_account" : "створити аккаунт",
+  "log_in" : "увійти",
+  "register" : "зареєструватися",
+  "reset_your_password" : "скинути пароль",
+  "retrieve_your_password" : "отримати пароль",
+  "sign_in" : "увійти",
+  "sign_up" : "зареєструватися",
+  "verify_email" : "підтвердити e-mail"
+}

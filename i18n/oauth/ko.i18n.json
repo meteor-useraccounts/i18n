@@ -1,3 +1,10 @@
 {
-	
+  "add" : "%s 추가",
+  "connect_to" : "%s 동기화",
+  "disconnect_from" : "%s 동기화 취소",
+  "log_in_with" : "%s (으)로 로그인하기",
+  "register_with" : "%s (으)로 가입하기",
+  "remove" : "%s 제거",
+  "sign_in_with" : "%s (으)로 로그인",
+  "sign_up_with" : "%s (으)로 가입"
 }
